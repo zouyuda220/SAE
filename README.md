@@ -32,7 +32,7 @@ pip install -r requirements.txt
 - To train SAE on UCF_QNRF dataset, run
   
   ```
-  train_Point_Shift_all_UCF_QNRF.py
+  python train_Point_Shift_all_UCF_QNRF.py --task_id UCF_QNRF
   ```
   
 ## Citation
