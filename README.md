@@ -9,7 +9,7 @@ European Conference on Computer Vision (ECCV), 2024
 
 [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03594.pdf) | [[Supplementary]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03594-supp.pdf)
 
-![SAE](pipeline.pdf)
+![SAE](pipeline.png)
 
 
 ## Installation
